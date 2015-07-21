@@ -5,7 +5,7 @@ These are just my personal scripts to help me setup a new osx machine.
 To start a new setup, simply run:
 
 ```shell
-bash -c "`curl -L https://raw.githubusercontent.com/ruyadorno/installme-osx/master/setup.sh`"
+bash -c "`curl -L https://raw.githubusercontent.com/ellimist/installme-osx/master/setup.sh`"
 ```
 
 ## Complete setup
